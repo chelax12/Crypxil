@@ -1,0 +1,5 @@
+{
+  "name": "CRYPXIL - Real-time Market Data",
+  "description": "A high-performance cryptocurrency tracker providing real-time data, interactive charts, and market snapshots using the CoinGecko API. Built with React, Tailwind CSS, and Chart.js.",
+  "requestFramePermissions": []
+}
